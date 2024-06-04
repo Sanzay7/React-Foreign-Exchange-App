@@ -34,10 +34,6 @@ RateRover is built using the following technologies:
 - React.js
 - NRB API (Nepal Rastra Bank API)
 
-## Contributors
-
-- [Your Name](https://github.com/yourusername)
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
